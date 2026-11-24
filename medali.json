@@ -1,18 +1,36 @@
 {
  "t": "Klasemen Perolehan Medali Peparprov",
- "u": "2026-11-23T07:25:48.430Z",
+ "u": "2026-11-24T01:08:54.861Z",
  "k": [
   {
    "n": "Kota Tangerang",
    "g": 5,
-   "s": 0,
-   "b": 0
+   "s": 5,
+   "b": 6
   },
   {
    "n": "Kabupaten Tangerang",
-   "g": 0,
-   "s": 0,
-   "b": 0
+   "g": 4,
+   "s": 4,
+   "b": 1
+  },
+  {
+   "n": "Kota Serang",
+   "g": 2,
+   "s": 2,
+   "b": 2
+  },
+  {
+   "n": "Pandeglang",
+   "g": 3,
+   "s": 2,
+   "b": 3
+  },
+  {
+   "n": "Cilegon",
+   "g": 3,
+   "s": 1,
+   "b": 5
   }
  ]
 }
